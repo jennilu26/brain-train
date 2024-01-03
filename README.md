@@ -5,4 +5,4 @@ Hello! My name is Jennifer. I'm new to the Data Science/Analysis field. I'm look
 
 ## Editing the file
 
-Its a markdown file in this respiratory 
+Its a markdown file in this respository 
